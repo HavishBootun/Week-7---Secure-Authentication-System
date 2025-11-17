@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecureAuth – Week 7 Secure Authentication System
 
 Student Name: Havish Bootun  
@@ -32,3 +33,7 @@ Users can:
 
 ## File Structure
 
+=======
+# Week-7---Secure-Authentication-System
+A secure, command-line authentication system for CST1510 Week 7 Lab. Implements bcrypt password hashing, user registration, login verification, and file-based credential storage with input validation.
+>>>>>>> 7285044a2c313da9aaad4ee3d525c5502e4068a7
