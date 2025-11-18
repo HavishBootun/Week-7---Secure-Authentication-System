@@ -10,7 +10,6 @@ This file implements:
 - Input validation
 - Command-line menu interface
 
-All comments are written using standard UK English.
 """
 
 import bcrypt
